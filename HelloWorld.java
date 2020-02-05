@@ -1,7 +1,10 @@
 /**
   Create by Sean
 */
-public HelloWorld(){
+public Class HelloWorld(){
     //Starting GitHub
+    public HelloWorld(){
+     system.out.println("Hello World"); 
+    }
 
 }
